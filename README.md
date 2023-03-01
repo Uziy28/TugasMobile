@@ -1,3 +1,3 @@
 # TugasMobile
 Hello World
-![Alt text](/image/buku.png "Optional title")
+![Alt text](/image/buku.png "Buku")
